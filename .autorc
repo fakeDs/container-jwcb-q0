@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fakeDs",
+  "repo": "container-jwcb-q0",
+  "name": "fakeDs",
+}
